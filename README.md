@@ -9,4 +9,18 @@ Ggplot
 Bokeh
 Pandas
 
-## Suggested Readings
+## Chart Types
+[Bar Charts & Histograms]()
+* [Stacked]()
+* [Grouped]()
+* [Bullet Chart]()
+[Line Plots]()
+* [Density Curve]()
+* [Area Chart]()
+[Scatter Plots]()
+* [Bubble Chart]()
+[Box Plot]()
+* [Violin Plot]()
+[Heatmap]()
+[Dual Axis Chart]()
+[Pie Charts]()
