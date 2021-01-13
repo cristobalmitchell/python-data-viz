@@ -14,7 +14,7 @@ Pandas
 * [Stacked]()
 * [Grouped]()
 * [Bullet Chart]()
-[Line Plots]()
+[Line Charts]()
 * [Density Curve]()
 * [Area Chart]()
 [Scatter Plots]()
