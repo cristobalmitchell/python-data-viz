@@ -1,30 +1,32 @@
 # Python Data Viz
 
-This repository provides an overview of common data visualizations using Python. 
+This repository provides an overview of common data visualizations using Python. Each chart type has several examples using different libraries. For more information on styling see [Visualization Style Guide](). For more information on choosing the best chart see [Types of Charts: Choose the Best Chart to Convey Your Message](https://www.mymarketresearchmethods.com/types-of-charts-choose/)
+
+![](https://www.mymarketresearchmethods.com/wp-content/uploads/2013/01/chart-types-choosing-the-right-one.png)
 
 ## Required Libraries
-* [Matplotlib](https://matplotlib.org)
-* [Seaborn](https://seaborn.pydata.org)
-* [ggplot](https://pypi.org/project/ggplot/)
-* [Pandas](https://pandas.pydata.org)
+* [Matplotlib](https://matplotlib.org) - v3.3.3
+* [Seaborn](https://seaborn.pydata.org) - v0.11.1
+* [ggplot](https://pypi.org/project/ggplot/) - v0.11.5
+* [Pandas](https://pandas.pydata.org) - v1.2.0
 
 ## Chart Types
 * [Bar Charts & Histograms](./bar-charts.ipynb)
- * [Vertical Bar Charts](./bar-charts.ipynb#vertical_bar)
- * [Horizontal Bar Charts](./bar-charts.ipynb#horizontal_bar)
- * [Error Bar Charts](./bar-charts.ipynb#error_bar)
- * [Grouped Bar Charts](./bar-charts.ipynb#group_bar)
- * [Stacked Bar Charts](./bar-charts.ipynb#stack_bar)
- * [Proportion Bar Charts](./bar-charts.ipynb#prop_bar)
- * [Histograms](./bar-charts.ipynb#hist)
- * [Bullet Chart](./bar-charts.ipynb#bullet)
+	* [Vertical Bar Charts](./bar-charts.ipynb#vertical_bar)
+	* [Horizontal Bar Charts](./bar-charts.ipynb#horizontal_bar)
+	* [Error Bar Charts](./bar-charts.ipynb#error_bar)
+	* [Grouped Bar Charts](./bar-charts.ipynb#group_bar)
+	* [Stacked Bar Charts](./bar-charts.ipynb#stack_bar)
+	* [Proportion Bar Charts](./bar-charts.ipynb#prop_bar)
+	* [Histograms](./bar-charts.ipynb#hist)
+	* [Bullet Chart](./bar-charts.ipynb#bullet)
 * [Line Charts]()
- * [Density Curve]()
- * [Area Chart]()
+	* [Density Curve]()
+	* [Area Chart]()
 * [Scatter Plots]()
- * [Bubble Chart]()
+	* [Bubble Chart]()
 * [Box Plot]()
- * [Violin Plot]()
+	* [Violin Plot]()
 * [Heatmap]()
 * [Dual Axis Chart]()
 * [Pie Charts]()
