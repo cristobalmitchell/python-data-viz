@@ -10,7 +10,7 @@ Bokeh
 Pandas
 
 ## Chart Types
-[Bar Charts & Histograms]()
+[Bar Charts & Histograms](./bar-charts.ipynb)
 * [Stacked]()
 * [Grouped]()
 * [Bullet Chart]()
