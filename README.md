@@ -31,7 +31,7 @@ This repository provides an overview of common data visualizations using Python.
 	* [Bubble Chart](./scatter-plots.ipynb#bubble_chart)
 	* [Hobbs-Pearson Trials](./scatter-plots.ipynb#hobbs_trials)
 	* [Polar Scatter Plot](./scatter-plots.ipynb#polar_scatter)
-* [Box Plot]()
+* [Box Plot](./box-plots.ipynb)
 	* [Violin Plot]()
 * [Heatmap]()
 * [Dual Axis Chart]()
